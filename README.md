@@ -51,14 +51,12 @@
             <li><a href="report.html">Report</a></li>
         </ul>
     </nav>
-    
-    <!-- Home Page Content -->
+      <!-- Home Page Content -->
     <section id="home-content">
         <h1>Welcome to Our Project</h1>
         <p>Dissecting the Digital Landscape: A Comprehensive Analysis of Social Media.</p>
     </section>
-
-    <!-- Project Overview -->
+<!-- Project Overview -->
     <section id="overview">
         <h1>Project Overview</h1>
         <p>Introduction to "Dissecting The Digital Landscape:
@@ -137,6 +135,7 @@ Data Privacy and Security: Scrutinize the challenges and concerns related to dat
         <h1>About Us</h1>
         <p>This is the about page content.</p>
     </section>
+ 
  <!-- Dashboard Page Content -->
     <section id="dashboard-content">
         <h1>Dashboard</h1>
