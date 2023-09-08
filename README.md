@@ -113,6 +113,7 @@ Quora: A platform for asking questions and getting answers from experts in vario
 Messaging Apps with Social Features:
 WhatsApp: A widely used messaging app.</p>
     </section>
+ 
  <!-- Social Media Usage -->
     <section id="social-media-usage">
         <h2>Social Media Usage</h2>
@@ -124,6 +125,7 @@ Entertainment and Trends: Investigate how social media contributes to entertainm
 Data Privacy and Security: Scrutinize the challenges and concerns related to data privacy, security, and the responsible use of social media platforms.
 .</p>
     </section>
+ 
  <!-- Dashboard Page Content -->
     <section id="dashboard-content">
         <h1>Dashboard</h1>
