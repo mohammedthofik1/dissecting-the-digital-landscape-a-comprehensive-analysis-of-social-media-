@@ -111,7 +111,6 @@ Discussion and Community Platforms:
 Reddit: An online forum where users discuss a wide range of topics through "subreddits" or niche communities.
 Quora: A platform for asking questions and getting answers from experts in various fields.
 Messaging Apps with Social Features:
-
 WhatsApp: A widely used messaging app.</p>
     </section>
  <!-- Social Media Usage -->
@@ -125,17 +124,6 @@ Entertainment and Trends: Investigate how social media contributes to entertainm
 Data Privacy and Security: Scrutinize the challenges and concerns related to data privacy, security, and the responsible use of social media platforms.
 .</p>
     </section>
-<!-- Home Page Content -->
-    <section id="home-content">
-        <h1>Welcome to Our Project</h1>
-        <p>Dissecting the Digital Landscape: A Comprehensive Analysis of Social Media.</p>
-    </section>
- <!-- About Page Content -->
-    <section id="about-content">
-        <h1>About Us</h1>
-        <p>This is the about page content.</p>
-    </section>
- 
  <!-- Dashboard Page Content -->
     <section id="dashboard-content">
         <h1>Dashboard</h1>
