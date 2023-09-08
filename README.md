@@ -113,8 +113,7 @@ Quora: A platform for asking questions and getting answers from experts in vario
 Messaging Apps with Social Features:
 WhatsApp: A widely used messaging app.</p>
     </section>
- 
- <!-- Social Media Usage -->
+    <!-- Social Media Usage -->
     <section id="social-media-usage">
         <h2>Social Media Usage</h2>
         <p>Personal Connection: Investigate how individuals use social media for personal connections, friendships, and maintaining relationships with friends and family. Explore the impact of social media on personal communication patterns.
