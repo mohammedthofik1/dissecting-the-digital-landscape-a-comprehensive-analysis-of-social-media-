@@ -124,8 +124,7 @@ Entertainment and Trends: Investigate how social media contributes to entertainm
 Data Privacy and Security: Scrutinize the challenges and concerns related to data privacy, security, and the responsible use of social media platforms.
 .</p>
     </section>
- 
- <!-- Dashboard Page Content -->
+    <!-- Dashboard Page Content -->
     <section id="dashboard-content">
         <h1>Dashboard</h1>
               <iframe src="https://us1.ca.analytics.ibm.com/bi/?perspective=dashboard&amp;pathRef=.my_folders%2FSOCIAL%2BMEDIA%2BDASBOARD%2BA&amp;closeWindowOnLastView=true&amp;ui_appbar=false&amp;ui_navbar=false&amp;shareMode=embedded&amp;action=view&amp;mode=dashboard&amp;subView=model0000018a65ff184b_00000003" width="1000" height="1000" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
