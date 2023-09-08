@@ -76,14 +76,12 @@ functionalities designed to explore, visualize, and understand complex datasets.
 capabilities in data integration, exploration, and reporting, IBM Cognos provides a robust 
 foundation for delving into the intricacies of social media data..</p>
     </section>
-
-    <!-- Project Description -->
+ <!-- Project Description -->
     <section id="description">
         <h2>Project Description</h2>
         <p>"Dissecting the Digital Landscape" goes beyond the surface of social media platforms, aiming to comprehensively analyze and understand the multifaceted usages and implications of these powerful digital tools. In an era where social media is deeply embedded in our lives, this project seeks to unravel the diverse ways in which individuals, businesses, and society interact with and utilize social media.</p>
     </section>
-
-    <!-- Types of Platforms -->
+ <!-- Types of Platforms -->
     <section id="platforms">
         <h2>Types of Platforms</h2>
         <p>
@@ -118,51 +116,38 @@ Messaging Apps with Social Features:
 
 WhatsApp: A widely used messaging app.</p>
     </section>
-
-    <!-- Social Media Usage -->
+ <!-- Social Media Usage -->
     <section id="social-media-usage">
         <h2>Social Media Usage</h2>
         <p>Personal Connection: Investigate how individuals use social media for personal connections, friendships, and maintaining relationships with friends and family. Explore the impact of social media on personal communication patterns.
-
 Information Dissemination: Analyze the role of social media as a primary source of news and information. Examine how users engage with and share news, articles, and other content.
-
 Brand Promotion: Delve into the strategies employed by businesses and organizations for brand promotion, marketing, and customer engagement on social media platforms.
-
 Social Activism: Explore the use of social media as a tool for social activism, advocacy, and mobilizing communities around social and political causes.
-
 Entertainment and Trends: Investigate how social media contributes to entertainment, pop culture, and the creation of trends, including viral challenges, memes, and influencer culture.
-
 Data Privacy and Security: Scrutinize the challenges and concerns related to data privacy, security, and the responsible use of social media platforms.
-
 .</p>
     </section>
-
-    <!-- Home Page Content -->
+<!-- Home Page Content -->
     <section id="home-content">
         <h1>Welcome to Our Project</h1>
         <p>Dissecting the Digital Landscape: A Comprehensive Analysis of Social Media.</p>
     </section>
-
-    <!-- About Page Content -->
+ <!-- About Page Content -->
     <section id="about-content">
         <h1>About Us</h1>
         <p>This is the about page content.</p>
     </section>
-
-    <!-- Dashboard Page Content -->
+ <!-- Dashboard Page Content -->
     <section id="dashboard-content">
         <h1>Dashboard</h1>
               <iframe src="https://us1.ca.analytics.ibm.com/bi/?perspective=dashboard&amp;pathRef=.my_folders%2FSOCIAL%2BMEDIA%2BDASBOARD%2BA&amp;closeWindowOnLastView=true&amp;ui_appbar=false&amp;ui_navbar=false&amp;shareMode=embedded&amp;action=view&amp;mode=dashboard&amp;subView=model0000018a65ff184b_00000003" width="1000" height="1000" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
-
-    </section>
-
-    <!-- Story Page Content -->
+   </section>
+  <!-- Story Page Content -->
     <section id="story-content">
         <h1>Story</h1>
        <iframe src="https://us1.ca.analytics.ibm.com/bi/?perspective=story&amp;pathRef=.my_folders%2FStory%253A%2BSOCIAL%2BMEDIA%2BDASBOARD%2BA&amp;closeWindowOnLastView=true&amp;ui_appbar=false&amp;ui_navbar=false&amp;shareMode=embedded&amp;action=view&amp;sceneId=model0000018a65ff184b_00000003&amp;sceneTime=0" width="1000" height="1000" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
     </section>
-
-    <!-- Report Page Content -->
+ <!-- Report Page Content -->
     <section id="report-content">
         <h1>Report</h1>
        <iframe src="https://us1.ca.analytics.ibm.com/bi/?pathRef=.my_folders%2Fsocial%2Bmedia%2Breport&amp;closeWindowOnLastView=true&amp;ui_appbar=false&amp;ui_navbar=false&amp;shareMode=embedded&amp;action=run&amp;format=HTML&amp;prompt=false" width="1000" height="1000" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
