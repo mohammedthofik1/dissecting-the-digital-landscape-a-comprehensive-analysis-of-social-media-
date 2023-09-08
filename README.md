@@ -46,6 +46,8 @@ foundation for delving into the intricacies of social media data.</p>
         Entertainment and Trends: 
                             Investigate how social media contributes to entertainment, pop culture, and the creation of trends, including viral challenges, memes, and influencer culture.</p>
     </section>
+    <!-- Dashboard -->
+    
     <section id="dashboard">
         <h2>Dashboard</h2>
        <iframe src="https://us1.ca.analytics.ibm.com/bi/?perspective=dashboard&amp;pathRef=.my_folders%2FSOCIAL%2BMEDIA%2BDASBOARD%2BA&amp;closeWindowOnLastView=true&amp;ui_appbar=false&amp;ui_navbar=false&amp;shareMode=embedded&amp;action=view&amp;mode=dashboard&amp;subView=model0000018a65ff184b_00000003" width="1000" height="1000" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
