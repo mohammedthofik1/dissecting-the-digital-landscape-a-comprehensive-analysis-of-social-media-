@@ -31,14 +31,12 @@ functionalities designed to explore, visualize, and understand complex datasets.
 capabilities in data integration, exploration, and reporting, IBM Cognos provides a robust 
 foundation for delving into the intricacies of social media data.</p>
     </section>
-
-    <!-- Project Description -->
+ <!-- Project Description -->
     <section id="description">
         <h2>Project Description</h2>
         <p>"Dissecting the Digital Landscape" goes beyond the surface of social media platforms, aiming to comprehensively analyze and understand the multifaceted usages and implications of these powerful digital tools. In an era where social media is deeply embedded in our lives, this project seeks to unravel the diverse ways in which individuals, businesses, and society interact with and utilize social media.</p>
     </section>
-
-    <!-- Social Media Usage -->
+ <!-- Social Media Usage -->
     <section id="usage">
         <h2>Social Media Usage</h2>
         <p>Personal Connection: Investigate how individuals use social media for personal connections, friendships, and maintaining relationships with friends and family. Explore the impact of social media on personal communication patterns
@@ -46,9 +44,7 @@ foundation for delving into the intricacies of social media data.</p>
         Brand Promotion: Delve into the strategies employed by businesses and organizations for brand promotion, marketing, and customer engagement on social media platforms.
         Social Activism: Explore the use of social media as a tool for social activism, advocacy, and mobilizing communities around social and political causes.
         Entertainment and Trends: 
-                            Investigate how social media contributes to entertainment, pop culture, and the creation of trends, including viral challenges, memes, and influencer culture.
-
-.</p>
+                            Investigate how social media contributes to entertainment, pop culture, and the creation of trends, including viral challenges, memes, and influencer culture.</p>
     </section>
 
     <!-- Dashboard -->
