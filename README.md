@@ -3,7 +3,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Social Media Project</title>
+    <title>Social Media and Digital Landscape Project</title>
     <style>
         /* Add your CSS styles here */
         body {
@@ -13,54 +13,63 @@
     </style>
 </head>
 <body>
+    <!-- Navigation Menu -->
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="dashboard.html">Dashboard</a></li>
+            <li><a href="story.html">Story</a></li>
+            <li><a href="report.html">Report</a></li>
+        </ul>
+    </nav>
+
     <!-- Project Overview -->
     <section id="overview">
         <h1>Project Overview</h1>
-        <p>Introduction to "Dissecting The Digital Landscape
-                                        A Comprehensive Analysis Of Social Media Data 
-Analytics Project in IBM Cognos.In the age of information abundance, the realm of social 
-media has emerged as a virtual treasure trove of insights waiting to be deciphered. The 
-"Dissecting The Digital Landscape: A Comprehensive Analysis Of Social Media Data Analytics 
-Project in IBM Cognos" embarks on a journey to navigate the complexities of this digital 
-universe. Through the lens of IBM Cognos, a powerful business intelligence and data 
-analytics platform, this project aims to harness the wealth of social media data, unravel its 
-hidden patterns, and extract meaningful insights that drive informed decision-making.
-Unveiling the Potential of IBM Cognos:
-IBM Cognos stands as a beacon of advanced data analytics, offering an array of tools and 
-functionalities designed to explore, visualize, and understand complex datasets. With its 
-capabilities in data integration, exploration, and reporting, IBM Cognos provides a robust 
-foundation for delving into the intricacies of social media data.</p>
+        <p>This is a brief overview of the Social Media and Digital Landscape project.</p>
     </section>
- <!-- Project Description -->
+
+    <!-- Project Description -->
     <section id="description">
         <h2>Project Description</h2>
-        <p>"Dissecting the Digital Landscape" goes beyond the surface of social media platforms, aiming to comprehensively analyze and understand the multifaceted usages and implications of these powerful digital tools. In an era where social media is deeply embedded in our lives, this project seeks to unravel the diverse ways in which individuals, businesses, and society interact with and utilize social media.</p>
+        <p>Provide a detailed description of the project here.</p>
     </section>
- <!-- Social Media Usage -->
-    <section id="usage">
+
+    <!-- Social Media Usage -->
+    <section id="social-media-usage">
         <h2>Social Media Usage</h2>
-        <p>Personal Connection: Investigate how individuals use social media for personal connections, friendships, and maintaining relationships with friends and family. Explore the impact of social media on personal communication patterns
-        Information Dissemination: Analyze the role of social media as a primary source of news and information. Examine how users engage with and share news, articles, and other content.
-        Brand Promotion: Delve into the strategies employed by businesses and organizations for brand promotion, marketing, and customer engagement on social media platforms.
-        Social Activism: Explore the use of social media as a tool for social activism, advocacy, and mobilizing communities around social and political causes.
-        Entertainment and Trends: 
-                            Investigate how social media contributes to entertainment, pop culture, and the creation of trends, including viral challenges, memes, and influencer culture.</p>
+        <p>Explain how social media is used in the project.</p>
     </section>
-   <div class="section-title">
-           <h2>Dashboard</h2>
-        </div>
+
+    <!-- Home Page Content -->
+    <section id="home-content">
+        <h1>Welcome to Our Project</h1>
+        <p>This is the home page content.</p>
+    </section>
+
+    <!-- About Page Content -->
+    <section id="about-content">
+        <h1>About Us</h1>
+        <p>This is the about page content.</p>
+    </section>
+
+   <iframe src="https://us1.ca.analytics.ibm.com/bi/?perspective=dashboard&amp;pathRef=.my_folders%2FSOCIAL%2BMEDIA%2BDASBOARD%2BA&amp;closeWindowOnLastView=true&amp;ui_appbar=false&amp;ui_navbar=false&amp;shareMode=embedded&amp;action=view&amp;mode=dashboard&amp;subView=model0000018a65ff184b_00000003" width="1000" height="1000" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
+    <section id="dashboard-content">
+        <h1>Dashboard</h1>
        <iframe src="https://us1.ca.analytics.ibm.com/bi/?perspective=dashboard&amp;pathRef=.my_folders%2FSOCIAL%2BMEDIA%2BDASBOARD%2BA&amp;closeWindowOnLastView=true&amp;ui_appbar=false&amp;ui_navbar=false&amp;shareMode=embedded&amp;action=view&amp;mode=dashboard&amp;subView=model0000018a65ff184b_00000003" width="1000" height="1000" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
-    </div>
     </section>
-<!-- Story -->
-    <section id="story">
-        <h2>Story</h2>
-       <iframe src="https://us1.ca.analytics.ibm.com/bi/?perspective=story&amp;pathRef=.my_folders%2FStory%253A%2BSOCIAL%2BMEDIA%2BDASBOARD%2BA&amp;closeWindowOnLastView=true&amp;ui_appbar=false&amp;ui_navbar=false&amp;shareMode=embedded&amp;action=view&amp;sceneId=model0000018a65ff184b_00000003&amp;sceneTime=0" width="1000" height="1000" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
+
+    <!-- Story Page Content -->
+    <section id="story-content">
+        <h1>Story</h1>
+        <iframe src="https://us1.ca.analytics.ibm.com/bi/?perspective=story&amp;pathRef=.my_folders%2FStory%253A%2BSOCIAL%2BMEDIA%2BDASBOARD%2BA&amp;closeWindowOnLastView=true&amp;ui_appbar=false&amp;ui_navbar=false&amp;shareMode=embedded&amp;action=view&amp;sceneId=model0000018a65ff184b_00000003&amp;sceneTime=0" width="1000" height="1000" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
     </section>
-    <!-- Report -->
-    <section id="report">
-        <h2>Report</h2>
-        <iframe src="https://us1.ca.analytics.ibm.com/bi/?pathRef=.my_folders%2Fsocial%2Bmedia%2Breport&amp;closeWindowOnLastView=true&amp;ui_appbar=false&amp;ui_navbar=false&amp;shareMode=embedded&amp;action=run&amp;format=HTML&amp;prompt=false" width="1000" height="1000" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
+
+    <!-- Report Page Content -->
+    <section id="report-content">
+        <h1>Report</h1>
+        <!-- Add your report content here -->
     </section>
 </body>
 </html>
